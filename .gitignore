@@ -1,0 +1,15 @@
+# Saídas geradas pela automação
+saida_planilhas/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
